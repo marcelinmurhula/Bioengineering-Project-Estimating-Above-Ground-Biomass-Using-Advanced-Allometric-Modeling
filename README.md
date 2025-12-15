@@ -276,10 +276,10 @@ If you use this methodology or data, please cite:
 Murhula, M. (2023).
 Forest Biomass Analysis of Kahuzi-Biega National Park.
 GitHub Repository.
-https://github.com/marcelinmurhula/Analyse-de-la-Biomasse-au-PNKB
+https://github.com/marcelinmurhula/Analyse-de-la-Biomasse-au-Parc National de Kahuzi-Biega
 ```
 
-Data collected under PNKB research permit [Number].
+Data collected under PNKB research permit [XV2892].
 
 ---
 
